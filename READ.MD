@@ -1,0 +1,1 @@
+# This project has a python file with all of the tables information while linking to the html file. The html file has a table set up with a for loop with the help of jinja and it links to the css file. The css file is where you'll see the table features: hover, background color/background color change, border-top. border-collapse.
